@@ -1,6 +1,6 @@
 # YAMcam
 
-![logo](https://raw.githubusercontent.com/V-Roger/YAMcam/main/misc/yamcam_logo--v0.svg?token=ABRIVBTQWLYS7JPH52LG4MC7SQLH4)
+![YAMCam logo](https://strapi.virgil-roger.photography/uploads/b272d26966a243578ba610794197eb54.svg)
 
 Yet Another Modular CAMera
 
