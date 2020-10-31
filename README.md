@@ -16,7 +16,7 @@ I did have a couple Mamiya press lenses and a Fujinon 4x5 135mm, so I thought "w
 * 6x6 body insert
 * 6x6 Magazone light trap inserts
 * Grip(s)
-* Sport finder!
+* Sports finder!
 
 ## Parts list
 
